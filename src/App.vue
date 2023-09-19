@@ -231,3 +231,5 @@ onMounted(async() => {
     </div>
   </main>
 </template>
+
+an ENS name used for a contract target must be correctly configured (value="", code=UNCONFIGURED_NAME, version=6.7.1)
